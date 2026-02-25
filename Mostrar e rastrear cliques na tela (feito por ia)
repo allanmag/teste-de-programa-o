@@ -75,6 +75,7 @@
 </head>
 <body>
     <br>
+    <br>
     <div id="counter">Cliques: 0</div>
     <button id="clearBtn">Limpar</button>
 
